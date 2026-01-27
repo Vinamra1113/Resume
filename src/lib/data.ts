@@ -12,7 +12,7 @@ export const data = {
   profile: {
     name: 'Vinamra Jain',
     initials: 'VJ',
-    title: 'Analytics & BI Professional',
+    title: 'Power BI Developer | Oracle AI Foundation Certified | Sports Analytics | Salesforce Intern @ Smartbridge | Trailhead Triple Star Ranger | Gemini Certified University Student | B.Tech, GGITS',
     location: 'Jabalpur, Madhya Pradesh',
     email: 'vinamra.jain.csbs22@gmail.com',
     phone: '+91 9142888365',
