@@ -4,7 +4,7 @@ import { Toaster } from "@/components/ui/toaster"
 
 export const metadata: Metadata = {
   title: 'Vinamra Jain - Portfolio',
-  description: 'A personal portfolio showcasing the skills, projects, and experience of Vinamra Jain in analytics, business intelligence, and Salesforce.',
+  description: 'A personal portfolio for Vinamra Jain, an analytics-focused professional with experience in data analytics, business intelligence, Salesforce development, and financial modeling.',
 };
 
 export default function RootLayout({

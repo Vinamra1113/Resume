@@ -1,4 +1,3 @@
-import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from '@/components/ui/card';
 import { data } from '@/lib/data';
@@ -10,7 +9,7 @@ export function Certifications() {
   return (
     <Section
       id="certifications"
-      title="Training & Certifications"
+      title="Certifications"
       icon={<Award className="h-6 w-6" />}
     >
       <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
@@ -18,11 +17,13 @@ export function Certifications() {
           <Card key={index} className="flex flex-col justify-between transform transition-transform duration-300 hover:scale-105 hover:shadow-xl">
             <CardHeader>
               <CardTitle className="text-xl">{cert.title}</CardTitle>
-              <CardDescription>{cert.issuer}</CardDescription>
+              {cert.issuer && <CardDescription>{cert.issuer}</CardDescription>}
             </CardHeader>
-            <CardContent>
-              <Badge variant="secondary">{cert.date}</Badge>
-            </CardContent>
+            {cert.date && 
+              <CardContent>
+                <span className="text-sm text-muted-foreground">{cert.date}</span>
+              </CardContent>
+            }
             <CardFooter>
               <Button asChild variant="outline" size="sm">
                 <Link href={cert.url} target="_blank" rel="noopener noreferrer">

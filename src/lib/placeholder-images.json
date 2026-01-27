@@ -7,22 +7,52 @@
       "imageHint": "profile person"
     },
     {
-      "id": "project-hr-analytics",
-      "description": "Dashboard showing HR analytics data",
-      "imageUrl": "https://images.unsplash.com/photo-1761850167081-473019536383?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxkYXNoYm9hcmQlMjBjaGFydHxlbnwwfHx8fDE3Njk1MDA2MzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "dashboard chart"
+      "id": "project-ipl-dashboard",
+      "description": "IPL 2025 Dashboard",
+      "imageUrl": "https://images.unsplash.com/photo-1760448970496-0a6a9b8bcd1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzcG9ydHMlMjBkYXNoYm9hcmR8ZW58MHx8fHwxNzY5NTAwOTY3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sports dashboard"
     },
     {
-      "id": "project-ecommerce-sales",
-      "description": "Sales analysis dashboard for an e-commerce platform",
-      "imageUrl": "https://images.unsplash.com/photo-1734856080638-71e78b3d8d5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxhbmFseXRpY3MlMjBncmFwaHxlbnwwfHx8fDE3Njk1MDA2MzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "id": "project-result-analysis",
+      "description": "Result Analysis Dashboard",
+      "imageUrl": "https://images.unsplash.com/photo-1737703638422-2cfa152cdcb7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxhbmFseXRpY3MlMjBncmFwaHxlbnwwfHx8fDE3Njk1MDA2MzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "analytics graph"
     },
     {
-      "id": "project-customer-churn",
-      "description": "A model predicting customer churn",
-      "imageUrl": "https://images.unsplash.com/photo-1758691736548-073bc97cdff4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxkYXRhJTIwcHJlZGljdGlvbnxlbnwwfHx8fDE3Njk1MDA2MzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "data prediction"
+      "id": "project-covid-analysis",
+      "description": "COVID-19 Global Analysis Dashboard",
+      "imageUrl": "https://images.unsplash.com/photo-1767449441925-737379bc2c4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxtYXAlMjBkYXNoYm9hcmR8ZW58MHx8fHwxNzY5NTAwOTY3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "map dashboard"
+    },
+    {
+      "id": "project-scamguard",
+      "description": "ScamGuard – Credit Card Fraud Detection System",
+      "imageUrl": "https://images.unsplash.com/photo-1585206031650-9e9a7c87dcfe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzZWN1cml0eSUyMHN5c3RlbXxlbnwwfHx8fDE3Njk1MDA5Njd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "security system"
+    },
+    {
+      "id": "project-food-expiry",
+      "description": "Food Expiry Alert System",
+      "imageUrl": "https://picsum.photos/seed/food/600/400",
+      "imageHint": "food alert"
+    },
+    {
+      "id": "project-csbs-salesforce",
+      "description": "CSBS Academic Management System – Salesforce",
+      "imageUrl": "https://picsum.photos/seed/salesforce/600/400",
+      "imageHint": "crm dashboard"
+    },
+    {
+      "id": "project-disease-prediction",
+      "description": "Smart Disease Prediction (ML + Power BI)",
+      "imageUrl": "https://images.unsplash.com/photo-1695048441307-d081dbd2b5a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxoZWFsdGglMjBhbmFseXRpY3N8ZW58MHx8fHwxNzY5NTAwOTY3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "health analytics"
+    },
+    {
+      "id": "project-netflix-valuation",
+      "description": "Netflix Valuation Case Study",
+      "imageUrl": "https://images.unsplash.com/photo-1531397735717-76e073b2caa4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxmaW5hbmNpYWwlMjBtb2RlbHxlbnwwfHx8fDE3Njk1MDA5Njd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "financial model"
     }
   ]
 }

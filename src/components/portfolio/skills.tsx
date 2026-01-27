@@ -8,7 +8,7 @@ const iconMap: { [key: string]: React.ElementType } = {
   'Data Analytics & BI': BarChart,
   'Programming & Machine Learning': Code,
   'Platforms & Tools': Server,
-  'Financial Analysis': DollarSign,
+  'Additional Areas': DollarSign,
 };
 
 export function Skills() {

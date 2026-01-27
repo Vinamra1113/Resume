@@ -8,6 +8,8 @@ import { Certifications } from "@/components/portfolio/certifications";
 import { Achievements } from "@/components/portfolio/achievements";
 import { Experience } from "@/components/portfolio/experience";
 import { data } from "@/lib/data";
+import { Training } from "@/components/portfolio/training";
+import { OtherSections } from "@/components/portfolio/other-sections";
 
 export default function PortfolioPage() {
   return (
@@ -20,8 +22,10 @@ export default function PortfolioPage() {
         <Skills />
         <Projects />
         <Experience />
+        <Training />
         <Certifications />
         <Achievements />
+        <OtherSections />
       </main>
       <footer className="py-8 bg-card border-t">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 text-center text-muted-foreground">
