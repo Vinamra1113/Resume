@@ -1,9 +1,7 @@
 import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from '@/components/ui/card';
-import { PlaceHolderImages } from '@/lib/placeholder-images';
 import { ArrowUpRight, Code2 } from 'lucide-react';
-import Image from 'next/image';
 import Link from 'next/link';
 import { Section } from './section';
 import { data } from '@/lib/data';
@@ -17,21 +15,8 @@ export function Projects() {
     >
       <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
         {data.projects.map((project, index) => {
-          const projectImage = PlaceHolderImages.find((img) => img.id === project.imageId);
           return (
             <Card key={index} className="flex flex-col overflow-hidden transform transition-transform duration-300 hover:scale-105 hover:shadow-xl">
-              {projectImage && (
-                <div className="aspect-video overflow-hidden">
-                  <Image
-                    src={projectImage.imageUrl}
-                    alt={projectImage.description}
-                    data-ai-hint={projectImage.imageHint}
-                    width={600}
-                    height={400}
-                    className="w-full h-full object-cover transition-transform duration-300 hover:scale-110"
-                  />
-                </div>
-              )}
               <CardHeader>
                 <CardTitle>{project.title}</CardTitle>
                 <CardDescription>{project.description}</CardDescription>
