@@ -17,7 +17,7 @@ export const data = {
     email: 'vinamra.jain.csbs22@gmail.com',
     phone: '+91 9142888365',
     imageId: 'profile',
-    resumeUrl: '#',
+    resumeUrl: 'https://drive.google.com/file/d/1BYq_XNm1wiTu9Y67LQWhIAGHcLwJ15ub/view?usp=sharing',
     socials: [
       { name: 'LinkedIn', url: 'https://linkedin.com/in/vinab17' },
       { name: 'Linktree', url: 'https://linktr.ee/vin_ab17' },
