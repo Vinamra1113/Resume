@@ -17,7 +17,7 @@ export const data = {
     email: 'vinamra.jain.csbs22@gmail.com',
     phone: '+91 9142888365',
     imageId: 'profile',
-    resumeUrl: 'https://drive.google.com/file/d/1BYq_XNm1wiTu9Y67LQWhIAGHcLwJ15ub/view?usp=sharing',
+    resumeUrl: 'https://drive.google.com/file/d/1p6UK8oYUD9bG6zmLlV2xY8Ki5kHTeBPZ/view?usp=sharing',
     socials: [
       { name: 'LinkedIn', url: 'https://linkedin.com/in/vinab17' },
       { name: 'Linktree', url: 'https://linktr.ee/vin_ab17' },
@@ -92,13 +92,13 @@ export const data = {
       links: [{ name: 'Project Link', url: 'https://tinyurl.com/3ea5884f' }],
     },
     {
-      title: 'ScamGuard – Credit Card Fraud Detection System',
-      imageId: 'project-scamguard',
-      description: 'AI-powered fraud detection system with authentication and transaction risk scoring.',
+      title: 'CertiMagic',
+      imageId: 'project-certimagic',
+      description: 'Built an AI-powered platform for bulk generation of personalized certificates with template uploads, dynamic name placement, AI-based style suggestions, secure authentication, saved history, and batch downloads.',
       role: 'Full Stack Developer',
-      stack: ['Next.js', 'TypeScript', 'Firebase', 'Tailwind CSS', 'Genkit', 'ShadCN UI'],
-      timeline: '2024',
-      links: [{ name: 'Project Link', url: 'https://9000-firebase-studio-1749649828995.cluster-6dx7corvpngoivimwvvljgokdw.cloudworkstations.dev' }],
+      stack: ['Next.js', 'TypeScript', 'Firebase (Authentication, Firestore)', 'Tailwind CSS', 'Genkit', 'ShadCN UI'],
+      timeline: '2025',
+      links: [{ name: 'Project Link', url: 'https://certi-magic.vercel.app/' }],
     },
     {
       title: 'Food Expiry Alert System',
