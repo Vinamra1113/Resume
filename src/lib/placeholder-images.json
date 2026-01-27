@@ -1,3 +1,28 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "profile",
+      "description": "A professional headshot of Vinamra Jain",
+      "imageUrl": "https://images.unsplash.com/photo-1724435811349-32d27f4d5806?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwcm9maWxlJTIwcGVyc29ufGVufDB8fHx8MTc2OTQwNzA0Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "profile person"
+    },
+    {
+      "id": "project-hr-analytics",
+      "description": "Dashboard showing HR analytics data",
+      "imageUrl": "https://images.unsplash.com/photo-1761850167081-473019536383?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxkYXNoYm9hcmQlMjBjaGFydHxlbnwwfHx8fDE3Njk1MDA2MzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dashboard chart"
+    },
+    {
+      "id": "project-ecommerce-sales",
+      "description": "Sales analysis dashboard for an e-commerce platform",
+      "imageUrl": "https://images.unsplash.com/photo-1734856080638-71e78b3d8d5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxhbmFseXRpY3MlMjBncmFwaHxlbnwwfHx8fDE3Njk1MDA2MzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "analytics graph"
+    },
+    {
+      "id": "project-customer-churn",
+      "description": "A model predicting customer churn",
+      "imageUrl": "https://images.unsplash.com/photo-1758691736548-073bc97cdff4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxkYXRhJTIwcHJlZGljdGlvbnxlbnwwfHx8fDE3Njk1MDA2MzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "data prediction"
+    }
+  ]
 }
