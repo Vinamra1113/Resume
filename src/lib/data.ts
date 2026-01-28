@@ -252,7 +252,7 @@ export const data = {
     {
       title: 'Google Certified Educator Level 2',
       description: '',
-      url: '#',
+      url: 'https://edu.google.accredible.com/323497a1-7c1c-41ca-9849-b73885cfe1be#acc.M0UmzZae',
     },
   ],
   softSkills: ['Critical Thinking', 'Problem Solving', 'Time Management', 'Decision Making', 'Adaptability'],
