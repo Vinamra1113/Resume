@@ -89,7 +89,7 @@ export const data = {
       role: 'Data Analyst',
       stack: ['Power BI', 'Excel'],
       timeline: '2024',
-      links: [{ name: 'Project Link', url: 'https://tinyurl.com/3ea5884f' }],
+      links: [{ name: 'Project Link', url: 'https://app.powerbi.com/view?r=eyJrIjoiZTY4ZmFjMDItMzI5Zi00M2IwLWFjMDUtNThmZjY5ODk3Y2RlIiwidCI6IjRhNzhmOWQwLWFiZGUtNDBjNC1hMDg4LTBiOTg5NTk5M2M0YSJ9' }],
     },
     {
       title: 'CertiMagic',
