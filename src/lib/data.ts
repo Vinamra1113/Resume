@@ -71,7 +71,7 @@ export const data = {
       role: 'Data Analyst / Sports Analytics',
       stack: ['Power BI', 'Excel', 'DAX'],
       timeline: '2025',
-      links: [{ name: 'Project Link', url: 'https://tinyurl.com/y2se83j9' }],
+      links: [{ name: 'Project Link', url: 'https://app.powerbi.com/view?r=eyJrIjoiNTdkYjlkODctZjJkMy00OTY1LWJmYjQtOTI0MjMwMjVjZjNkIiwidCI6IjRhNzhmOWQwLWFiZGUtNDBjNC1hMDg4LTBiOTg5NTk5M2M0YSJ9' }],
     },
     {
       title: 'Result Analysis Dashboard',
