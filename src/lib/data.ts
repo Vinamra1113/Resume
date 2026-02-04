@@ -80,7 +80,7 @@ export const data = {
       role: 'Data Analyst',
       stack: ['Power BI', 'Excel'],
       timeline: '2024',
-      links: [{ name: 'Project Link', url: 'https://tinyurl.com/ydryau3v' }],
+      links: [{ name: 'Project Link', url: 'https://app.powerbi.com/view?r=eyJrIjoiOGFhYjE1ZTEtOWRmOS00ZDY3LTk0YzYtNzgyYWUyNDU5YjRiIiwidCI6IjRhNzhmOWQwLWFiZGUtNDBjNC1hMDg4LTBiOTg5NTk5M2M0YSJ9' }],
     },
     {
       title: 'COVID-19 Global Analysis Dashboard',
