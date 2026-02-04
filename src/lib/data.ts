@@ -128,7 +128,7 @@ export const data = {
       role: 'Machine Learning Engineer / Data Analyst',
       stack: ['Python', 'Scikit-Learn', 'XGBoost', 'TensorFlow', 'Power BI', 'DAX', 'Microsoft Fabric'],
       timeline: '2025',
-      links: [{ name: 'Project Link', url: 'https://app.powerbi.com/links/XduAVnkx4h' }],
+      links: [{ name: 'Project Link', url: 'https://app.powerbi.com/view?r=eyJrIjoiNTEyMmU3YjktMWI0YS00OTEzLWIwMDctYmE0MjU1NjdjMjMwIiwidCI6IjRhNzhmOWQwLWFiZGUtNDBjNC1hMDg4LTBiOTg5NTk5M2M0YSJ9' }],
     },
     {
       title: 'Netflix Valuation Case Study',
