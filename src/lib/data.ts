@@ -142,6 +142,14 @@ export const data = {
   ],
   experience: [
     {
+      role: 'Data Analyst',
+      organization: 'Gyan Ganga Group of Institutions, Jabalpur',
+      duration: 'Feb 2026 – Present',
+      responsibilities: [
+        'Working on institutional data analysis, dashboard development, and performance reporting to support data-driven academic and administrative decision-making.',
+      ],
+    },
+    {
       role: 'Salesforce Intern',
       organization: 'SmartBridge Educational Services Pvt. Ltd., Hyderabad',
       duration: 'Sept 2025 – Present',
