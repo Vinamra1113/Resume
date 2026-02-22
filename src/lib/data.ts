@@ -176,6 +176,12 @@ export const data = {
       url: 'https://www.linkedin.com/in/vinab17/details/certifications/1759430971663/single-media-viewer',
     },
     {
+      title: 'SAP Certified - Data Analyst - SAP Analytics Cloud',
+      issuer: 'SAP',
+      date: '',
+      url: 'https://www.credly.com/badges/feb4661a-6762-4920-bd7f-62dcd3f7cf5a/public_url',
+    },
+    {
       title: 'IBM AI Fundamentals',
       issuer: 'IBM',
       date: '',
@@ -194,12 +200,6 @@ export const data = {
       url: 'https://www.linkedin.com/in/vinab17/details/certifications/1759312830642/single-media-viewer',
     },
     {
-      title: 'HP Data Science and Analytics',
-      issuer: 'HP',
-      date: '',
-      url: 'https://www.linkedin.com/in/vinab17/details/certifications/1769065156979/single-media-viewer',
-    },
-    {
       title: 'HP Design Thinking',
       issuer: 'HP',
       date: '',
@@ -216,6 +216,12 @@ export const data = {
       issuer: 'TATA Group',
       date: '',
       url: 'https://www.linkedin.com/in/vinab17/details/certifications/1739966633860/single-media-viewer',
+    },
+    {
+      title: 'Google Analytics 4',
+      issuer: 'Google',
+      date: '',
+      url: 'https://skillshop.credential.net/e57c9192-2c20-4a75-b1b7-102b13686f94#acc.KnhB9M8c',
     },
   ],
   achievements: [
