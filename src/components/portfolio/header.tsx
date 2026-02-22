@@ -6,6 +6,7 @@ import { cn } from '@/lib/utils';
 import { Menu, Sparkles } from 'lucide-react';
 import Link from 'next/link';
 import { useEffect, useState } from 'react';
+import { ThemeToggle } from '@/components/theme-toggle';
 
 export function Header() {
   const [isScrolled, setIsScrolled] = useState(false);
@@ -37,8 +38,10 @@ export function Header() {
               <Link href={link.href}>{link.label}</Link>
             </Button>
           ))}
+          <ThemeToggle />
         </nav>
-        <div className="md:hidden">
+        <div className="md:hidden flex items-center gap-2">
+          <ThemeToggle />
           <Sheet open={mobileMenuOpen} onOpenChange={setMobileMenuOpen}>
             <SheetTrigger asChild>
               <Button variant="outline" size="icon">
