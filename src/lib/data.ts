@@ -270,7 +270,7 @@ export const data = {
       url: 'https://www.salesforce.com/trailblazer/k58sla6vezvtay691k',
     },
     {
-      title: 'Cisco NetAcad Riders Participation',
+      title: 'Cisco APJC NetAcad Riders Participation',
       description: '',
       url: 'https://web.cvent.com/survey/certificate/928d2a35-f1b6-4c5d-b1d3-842264641967?r=9ac856c4-3d84-4be0-b45b-33e73cb920c0&code=NetRiders+General+Certificate',
     },
