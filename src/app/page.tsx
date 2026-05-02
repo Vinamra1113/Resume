@@ -7,9 +7,9 @@ import { Projects } from "@/components/portfolio/projects";
 import { Certifications } from "@/components/portfolio/certifications";
 import { Achievements } from "@/components/portfolio/achievements";
 import { Experience } from "@/components/portfolio/experience";
-import { data } from "@/lib/data";
 import { Training } from "@/components/portfolio/training";
 import { OtherSections } from "@/components/portfolio/other-sections";
+import { Footer } from "@/components/portfolio/footer";
 
 export default function PortfolioPage() {
   return (
@@ -27,11 +27,7 @@ export default function PortfolioPage() {
         <Achievements />
         <OtherSections />
       </main>
-      <footer className="py-8 bg-card border-t">
-        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 text-center text-muted-foreground">
-          <p>&copy; {new Date().getFullYear()} {data.profile.name}. All rights reserved.</p>
-        </div>
-      </footer>
+      <Footer />
     </div>
   );
 }
