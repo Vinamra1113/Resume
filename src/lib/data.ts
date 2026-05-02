@@ -143,7 +143,7 @@ export const data = {
   experience: [
     {
       role: 'Data Analyst',
-      organization: 'Gyan Ganga Group of Institutions, Jabalpur',
+      organization: 'Gyan Ganga Genesis Incubation Centre, Jabalpur',
       duration: 'Feb 2026 – Present',
       responsibilities: [
         'Working on institutional data analysis, dashboard development, and performance reporting to support data-driven academic and administrative decision-making.',
