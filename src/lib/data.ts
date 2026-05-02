@@ -24,7 +24,7 @@ export const data = {
     ],
   },
   careerObjective:
-    'Analytics-focused professional with hands-on experience in data analytics, business intelligence, Salesforce development, and financial modeling. Skilled in transforming complex datasets into actionable insights using Power BI, Excel, Python, and Salesforce tools.',
+    'An aspiring data analyst and Salesforce professional with hands-on experience in business intelligence, AI-driven solutions, and dashboard development. Skilled in Power BI, Python, and Salesforce platforms to transform complex data into actionable insights and scalable solutions. Seeking opportunities to leverage analytical thinking, technical expertise, and problem-solving skills to drive data-informed decision-making and business growth.',
   education: [
     {
       degree: 'B.Tech – Computer Science and Business Systems',
@@ -203,43 +203,49 @@ export const data = {
       title: 'IBM AI Fundamentals',
       issuer: 'IBM',
       date: '',
-      url: 'https://www.linkedin.com/in/vinab17/details/certifications/1759312766961/single-media-viewer',
+      url: 'https://www.credly.com/badges/49d51abe-3ebc-46a8-97c3-713c0dc85aae/public_url',
     },
     {
       title: 'Analyzing and Visualizing Data with Microsoft Power BI',
       issuer: 'Microsoft',
       date: '',
-      url: 'https://www.linkedin.com/in/vinab17/details/certifications/1752320403136/single-media-viewer',
+      url: 'https://media.licdn.com/dms/image/v2/D4D1FAQGPm0g7P1WfIQ/feedshare-document-images_800/B4DZf.bB9PGYAc-/1/1752320189956?e=1778716800&v=beta&t=01a6kCsljfS49Hk6NQfKzL5OcwhY078p9MY6XapUkdM',
     },
     {
       title: 'Financial Modelling & Valuation',
       issuer: '',
       date: '',
-      url: 'https://www.linkedin.com/in/vinab17/details/certifications/1759312830642/single-media-viewer',
+      url: 'https://media.licdn.com/dms/image/v2/D4D1FAQGyEZL8c0re-w/feedshare-document-images_800/B4DZmfMprmGgAc-/1/1759312519844?e=1778716800&v=beta&t=LpHasbc48lQk0ouX7-hx3sA7CcEkLgaToSLRhHQdLx4',
     },
     {
       title: 'HP Design Thinking',
       issuer: 'HP',
       date: '',
-      url: 'https://www.linkedin.com/in/vinab17/details/certifications/1769065222380/single-media-viewer',
+      url: 'https://media.licdn.com/dms/image/v2/D4D1FAQEnIuMr5DxaKQ/feedshare-document-images_800/B4DZvkc8xTJgAo-/1/1769064353562?e=1778716800&v=beta&t=iF6vTCboPv83BWASb3Aq7dUHVDEvVwxIlKRdcNypj2I',
     },
     {
       title: 'TCS Communication Skills (TCS iON)',
       issuer: 'TCS',
       date: '',
-      url: 'https://www.linkedin.com/in/vinab17/details/certifications/1741788114678/single-media-viewer',
+      url: 'https://drive.google.com/file/d/1O5POu0lLk2MYVfTrjqDU6eo-JKpVlwuK/view?usp=sharing',
     },
     {
       title: 'Data Visualization: Empowering Business with Effective Insights (TATA Group)',
       issuer: 'TATA Group',
       date: '',
-      url: 'https://www.linkedin.com/in/vinab17/details/certifications/1739966633860/single-media-viewer',
+      url: 'https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_bZ3kijyJMC9qzKZy9_1734334179456_completion_certificate.pdf',
     },
     {
       title: 'Google Analytics 4',
       issuer: 'Google',
       date: '',
       url: 'https://skillshop.credential.net/e57c9192-2c20-4a75-b1b7-102b13686f94#acc.KnhB9M8c',
+    },
+    {
+      title: 'IBM Data Fundamentals BY IBM',
+      issuer: 'IBM',
+      date: '',
+      url: 'https://www.credly.com/badges/76a90757-042b-4cc6-bb12-27b34b48b8d6/public_url',
     },
   ],
   achievements: [
@@ -262,6 +268,11 @@ export const data = {
       title: 'Four Star Ranger – Salesforce Trailhead',
       description: '',
       url: 'https://www.salesforce.com/trailblazer/k58sla6vezvtay691k',
+    },
+    {
+      title: 'Cisco NetAcad Riders Participation',
+      description: '',
+      url: 'https://web.cvent.com/survey/certificate/928d2a35-f1b6-4c5d-b1d3-842264641967?r=9ac856c4-3d84-4be0-b45b-33e73cb920c0&code=NetRiders+General+Certificate',
     },
     {
       title: 'Google Cloud Gen AI Academy APAC Edition Participation',
