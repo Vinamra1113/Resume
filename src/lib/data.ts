@@ -156,6 +156,7 @@ export const data = {
       responsibilities: [
         'Salesforce customization, reporting, deployment, documentation, and platform support.',
       ],
+      url: 'https://www.linkedin.com/feed/update/urn:li:activity:7373612467555500032/',
     },
   ],
   training: [

@@ -1,8 +1,10 @@
 import { Badge } from '@/components/ui/badge';
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
+import { Button } from '@/components/ui/button';
+import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from '@/components/ui/card';
 import { data } from '@/lib/data';
-import { Briefcase, Calendar } from 'lucide-react';
+import { ArrowUpRight, Briefcase, Calendar } from 'lucide-react';
 import { Section } from './section';
+import Link from 'next/link';
 
 export function Experience() {
   return (
@@ -36,6 +38,15 @@ export function Experience() {
                   ))}
                 </ul>
               </CardContent>
+              {exp.url && (
+                <CardFooter>
+                  <Button asChild variant="outline" size="sm" className="w-full sm:w-auto">
+                    <Link href={exp.url} target="_blank" rel="noopener noreferrer">
+                      View Details <ArrowUpRight className="ml-2 h-4 w-4" />
+                    </Link>
+                  </Button>
+                </CardFooter>
+              )}
             </Card>
           </div>
         ))}
