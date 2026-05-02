@@ -12,7 +12,7 @@ export const data = {
   profile: {
     name: 'Vinamra Jain',
     initials: 'VJ',
-    title: 'Power BI Developer | Oracle AI Foundation Certified | Sports Analytics | Salesforce Intern @ Smartbridge | Trailhead Triple Star Ranger | Gemini Certified University Student | B.Tech, GGITS',
+    title: 'Power BI Developer | Oracle AI Foundation Certified | Sports Analytics | Salesforce Intern @ Smartbridge | Trailhead Four Star Ranger | Gemini Certified University Student | B.Tech, GGITS',
     location: 'Jabalpur, Madhya Pradesh',
     email: 'vinamra.jain.csbs22@gmail.com',
     phone: '+91 9142888365',
@@ -246,22 +246,42 @@ export const data = {
     {
       title: 'SIH 2023 Finalist',
       description: '',
-      url: 'https://www.linkedin.com/in/vinab17/details/certifications/1739967510780/single-media-viewer',
+      url: 'https://media.licdn.com/dms/image/v2/D4D2DAQHXb33W9Tt2oQ/profile-treasury-document-cover-images_480/B4DZUeJQM9GkAw-/0/1739967499383?e=1778320800&v=beta&t=YhdkIsT8oxvfxBlQCeaYhjbKzQyoK6eimwXMDXEx8KM',
     },
     {
       title: 'IDE Bootcamp Participant (MoE)',
       description: '',
-      url: 'https://www.linkedin.com/in/vinab17/details/certifications/1739967625159/single-media-viewer',
+      url: 'https://media.licdn.com/dms/image/v2/D4D2DAQFAXCTl3J-2Gw/profile-treasury-document-cover-images_480/B4DZUeJrJHHIA0-/0/1739967611050?e=1778320800&v=beta&t=gu28oienh6mQ8xJIJrpgL98ZUnr6gpryQsBIpkm757g',
     },
     {
       title: 'College Bronze Medalist – Best Academics (2023–24)',
       description: '',
-      url: 'https://www.linkedin.com/in/vinab17/overlay/1739967795453/single-media-viewer',
+      url: 'https://media.licdn.com/dms/image/v2/D4D2DAQETIYPLFAOeqA/profile-treasury-document-cover-images_480/B4DZUeKGzfHAA0-/0/1739967723376?e=1778320800&v=beta&t=1B0o0IfsNFszbI5POIYjBbYH5BJ0rjdB0nnRZa_IV90',
     },
     {
-      title: 'Triple Star Ranger – Salesforce Trailhead',
+      title: 'Four Star Ranger – Salesforce Trailhead',
       description: '',
       url: 'https://www.salesforce.com/trailblazer/k58sla6vezvtay691k',
+    },
+    {
+      title: 'Google Cloud Gen AI Academy APAC Edition Participation',
+      description: '',
+      url: 'https://certificate.hack2skill.com/verify/2026H2S04GCGENAIAPACC1-P01396',
+    },
+    {
+      title: 'AI Impact Summit 2026 India Participation',
+      description: '',
+      url: 'https://cdn.indiaai.in/6YWAVK__1770932814459_1770932814459.png?Expires=1776116814',
+    },
+    {
+      title: 'Agentforce World Tour Tokyo Participation',
+      description: '',
+      url: 'https://www.linkedin.com/posts/vinab17_worldabrtourabrtokyoabrsummerabr2026-salesforce-activity-7451524858762383360-_r8g?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFVZsgsB-U3O6iE9Zwg6M0f7Gifpz6WTvg0',
+    },
+    {
+      title: 'GenAI Academy 2.0 by Google Cloud Participation',
+      description: '',
+      url: 'https://media.licdn.com/dms/image/v2/D4D2DAQFlQY6zRR8ehw/profile-treasury-document-cover-images_1920/B4DZtaKNTRKoBU-/0/1766744186492?e=1778320800&v=beta&t=pslnr86ICwn7X9by_vYUdwqDqR4MLJ6EHwHNvRGNGK8',
     },
     {
       title: 'Google Certified University Student',
