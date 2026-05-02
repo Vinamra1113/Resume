@@ -182,7 +182,7 @@ export const data = {
       title: 'Oracle Cloud Infrastructure 2025 Certified AI Foundation Associate',
       issuer: 'Oracle',
       date: '',
-      url: 'https://www.linkedin.com/in/vinab17/details/certifications/1759430971663/single-media-viewer',
+      url: 'https://media.licdn.com/dms/image/v2/D4D1FAQGwvTpr71zwKA/feedshare-document-images_800/B4DZmmLUN8IcAk-/1/1759429612146?e=1778716800&v=beta&t=Nb-evXBA7P0-JpzZfHwS6KF8oCGvz67R49eyTcALqEQ',
       isGlobal: true,
     },
     {
