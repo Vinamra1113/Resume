@@ -1,8 +1,10 @@
 import { Badge } from '@/components/ui/badge';
+import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from '@/components/ui/card';
 import { data } from '@/lib/data';
-import { Award } from 'lucide-react';
+import { Award, ArrowUpRight } from 'lucide-react';
 import { Section } from './section';
+import Link from 'next/link';
 
 export function Training() {
   return (
@@ -21,11 +23,20 @@ export function Training() {
             </CardHeader>
             <CardContent className="space-y-4">
                 <p className='text-muted-foreground'>{t.description}</p>
-                <div className='space-x-2'>
+                <div className='flex flex-wrap gap-2'>
                     <Badge variant="secondary">{t.date}</Badge>
                     {t.certificateId && <Badge variant="outline">ID: {t.certificateId}</Badge>}
                 </div>
             </CardContent>
+            {t.url && t.url !== '#' && (
+              <CardFooter>
+                <Button asChild variant="outline" size="sm" className="w-full">
+                  <Link href={t.url} target="_blank" rel="noopener noreferrer">
+                    View Certificate <ArrowUpRight className="ml-2 h-4 w-4" />
+                  </Link>
+                </Button>
+              </CardFooter>
+            )}
           </Card>
         ))}
       </div>

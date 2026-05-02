@@ -152,7 +152,7 @@ export const data = {
     {
       role: 'Salesforce Intern',
       organization: 'SmartBridge Educational Services Pvt. Ltd., Hyderabad',
-      duration: 'Sept 2025 – Present',
+      duration: 'Sept 2025 to Feb 2026',
       responsibilities: [
         'Salesforce customization, reporting, deployment, documentation, and platform support.',
       ],
@@ -165,7 +165,7 @@ export const data = {
       date: 'Jul 2025 – Oct 2025',
       description: 'Salesforce AI Agent development, platform customization, and applied AI use cases.',
       certificateId: 'LM-SF-2025-0059',
-      url: '#'
+      url: 'https://media.licdn.com/dms/image/v2/D4D2DAQEjg8ivouqevA/profile-treasury-document-cover-images_1920/B4DZtaLjC7GUBM-/0/1766744540734?e=1778317200&v=beta&t=ZxCvp_mzgd9PJJrkvhJId4b1sW4eMbEkrjN_oLLpzoI'
     },
     {
       title: 'Power BI for Future Tech Leaders: Data Analytics & Visualization',
@@ -173,7 +173,7 @@ export const data = {
       date: 'Mar 2025',
       description: 'Hands-on training in Power BI Desktop, data modeling, DAX calculations, dashboard creation, data shaping, and performance optimization.',
       certificateId: 'CERT-1767161318863-BORS5TY',
-      url: '#'
+      url: 'https://media.licdn.com/dms/image/v2/D4D22AQEf3sUZIiENog/feedshare-shrink_800/B4DZuofxYRI4Ag-/0/1768058461837?e=1779321600&v=beta&t=jJEh17_1HA5okCreejkVnmtTkljXGQWfrLhAN6oPPBQ'
     }
   ],
   certifications: [
@@ -182,12 +182,21 @@ export const data = {
       issuer: 'Oracle',
       date: '',
       url: 'https://www.linkedin.com/in/vinab17/details/certifications/1759430971663/single-media-viewer',
+      isGlobal: true,
     },
     {
       title: 'SAP Certified - Data Analyst - SAP Analytics Cloud',
       issuer: 'SAP',
       date: '',
       url: 'https://www.credly.com/badges/feb4661a-6762-4920-bd7f-62dcd3f7cf5a/public_url',
+      isGlobal: true,
+    },
+    {
+      title: 'SAP Certified Project_Manager-SAP Activate.',
+      issuer: 'SAP',
+      date: '',
+      url: 'https://www.credly.com/badges/75e28e10-4cf2-40e1-ba8f-664abd9cca0d/public_url',
+      isGlobal: true,
     },
     {
       title: 'IBM AI Fundamentals',
