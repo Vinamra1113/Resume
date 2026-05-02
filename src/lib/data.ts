@@ -242,7 +242,7 @@ export const data = {
       url: 'https://skillshop.credential.net/e57c9192-2c20-4a75-b1b7-102b13686f94#acc.KnhB9M8c',
     },
     {
-      title: 'IBM Data Fundamentals BY IBM',
+      title: 'IBM Data Fundamentals',
       issuer: 'IBM',
       date: '',
       url: 'https://www.credly.com/badges/76a90757-042b-4cc6-bb12-27b34b48b8d6/public_url',
