@@ -183,7 +183,7 @@ export const data = {
       title: 'Oracle Cloud Infrastructure 2025 Certified AI Foundation Associate',
       issuer: 'Oracle',
       date: '',
-      url: 'https://media.licdn.com/dms/image/v2/D4D1FAQGwvTpr71zwKA/feedshare-document-images_800/B4DZmmLUN8IcAk-/1/1759429612146?e=1778716800&v=beta&t=Nb-evXBA7P0-JpzZfHwS6KF8oCGvz67R49eyTcALqEQ',
+      url: 'https://catalog-education.oracle.com/pls/certview/sharebadge?id=84757D406E0BC908DE86B6B403AA7AC7ED34915E4DEC38B6C9ED46BF4B8228A6',
       isGlobal: true,
     },
     {
@@ -201,7 +201,7 @@ export const data = {
       isGlobal: true,
     },
     {
-      title: '(Global) Oracle Data Platform 2025 Certified Foundations Associate',
+      title: 'Oracle Data Platform 2025 Certified Foundations Associate',
       issuer: 'Oracle',
       date: '',
       url: 'https://catalog-education.oracle.com/ords/certview/sharebadge?id=2DDC3ED9B5FC12396DFEBB524843FE093AADD457098347E61DB7FFD71B02431D',
