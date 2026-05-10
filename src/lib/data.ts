@@ -153,7 +153,7 @@ export const data = {
     {
       role: 'Salesforce Intern',
       organization: 'SmartBridge Educational Services Pvt. Ltd., Hyderabad',
-      duration: 'Sept 2025 to Feb 2026',
+      duration: 'Sept 2025 to Apr 2026',
       responsibilities: [
         'Salesforce customization, reporting, deployment, documentation, and platform support.',
       ],
