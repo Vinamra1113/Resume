@@ -148,6 +148,7 @@ export const data = {
       responsibilities: [
         'Working on institutional data analysis, dashboard development, and performance reporting to support data-driven academic and administrative decision-making.',
       ],
+      url: 'https://media.licdn.com/dms/image/v2/D4D2DAQGocJQqtB7QIA/profile-treasury-document-images_1920/B4DZ3yhWBlGcAs-/1/1777890322333?e=1779321600&v=beta&t=JgqgLx44D4_68l5E_yAr8SIJcSgFSog965yFof7mUIM',
     },
     {
       role: 'Salesforce Intern',
@@ -200,6 +201,13 @@ export const data = {
       isGlobal: true,
     },
     {
+      title: '(Global) Oracle Data Platform 2025 Certified Foundations Associate',
+      issuer: 'Oracle',
+      date: '',
+      url: 'https://catalog-education.oracle.com/ords/certview/sharebadge?id=2DDC3ED9B5FC12396DFEBB524843FE093AADD457098347E61DB7FFD71B02431D',
+      isGlobal: true,
+    },
+    {
       title: 'IBM AI Fundamentals',
       issuer: 'IBM',
       date: '',
@@ -207,13 +215,13 @@ export const data = {
     },
     {
       title: 'Analyzing and Visualizing Data with Microsoft Power BI',
-      issuer: 'Microsoft',
+      issuer: 'TuteDude',
       date: '',
       url: 'https://media.licdn.com/dms/image/v2/D4D1FAQGPm0g7P1WfIQ/feedshare-document-images_800/B4DZf.bB9PGYAc-/1/1752320189956?e=1778716800&v=beta&t=01a6kCsljfS49Hk6NQfKzL5OcwhY078p9MY6XapUkdM',
     },
     {
       title: 'Financial Modelling & Valuation',
-      issuer: '',
+      issuer: 'TuteDude',
       date: '',
       url: 'https://media.licdn.com/dms/image/v2/D4D1FAQGyEZL8c0re-w/feedshare-document-images_800/B4DZmfMprmGgAc-/1/1759312519844?e=1778716800&v=beta&t=LpHasbc48lQk0ouX7-hx3sA7CcEkLgaToSLRhHQdLx4',
     },
@@ -246,6 +254,18 @@ export const data = {
       issuer: 'IBM',
       date: '',
       url: 'https://www.credly.com/badges/76a90757-042b-4cc6-bb12-27b34b48b8d6/public_url',
+    },
+    {
+      title: 'Google AI Essentials',
+      issuer: 'Coursera',
+      date: '',
+      url: 'https://coursera.org/share/6e16a09cc737fc495f67045e07ea4a31',
+    },
+    {
+      title: 'Google Prompting Essentials',
+      issuer: 'Coursera',
+      date: '',
+      url: 'https://coursera.org/share/be2ee9b74a1735ebf32e869f8b0db0a4',
     },
   ],
   achievements: [
