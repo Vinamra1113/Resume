@@ -30,7 +30,7 @@ export const data = {
       degree: 'B.Tech – Computer Science and Business Systems',
       institution: 'Gyan Ganga Institute of Technology and Sciences, Jabalpur',
       period: 'Oct 2022 – Jun 2026',
-      gpa: 'CGPA: 8.21',
+      gpa: 'CGPA: 8.32',
     },
     {
       degree: 'Higher Secondary (CBSE)',
@@ -141,6 +141,15 @@ export const data = {
     },
   ],
   experience: [
+    {
+      role: 'Jr. Consultant Intern',
+      organization: 'HOSHO DIGITAL, Indore',
+      duration: 'Jun 2026 – Present',
+      responsibilities: [
+        'Designed business solutions by leveraging Power Automate, Power Apps, Power BI, and Azure AI to automate processes, analyze data, and improve operational efficiency.',
+      ],
+      url: 'https://drive.google.com/file/d/1wYvEIOrAhJZBFbudlmLW7_uBkkhNnMSP/view?usp=sharing',
+    },
     {
       role: 'Data Analyst',
       organization: 'Gyan Ganga Genesis Incubation Centre, Jabalpur',
